@@ -1,0 +1,1 @@
+<h3>Welcome {{$user->name}}, you have registered as {{$user->email}} into our side</h3>
